@@ -1,0 +1,22 @@
+---
+- !ruby/object:Backup::Package
+  trigger: db_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 5.0.0.beta.2
+  time: 2017.10.31.22.49.48
+- !ruby/object:Backup::Package
+  trigger: db_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 5.0.0.beta.2
+  time: 2017.10.31.22.42.25
+- !ruby/object:Backup::Package
+  trigger: db_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 5.0.0.beta.2
+  time: 2017.10.31.17.36.13
